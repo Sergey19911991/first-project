@@ -1,1 +1,1 @@
-class Converter {}
+class Converter
